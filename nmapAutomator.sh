@@ -107,7 +107,7 @@ fi
 cmpPorts(){
 oldIFS=$IFS
 IFS=','
-#touch nmap/cmpPorts_"$1".txt
+touch nmap/cmpPorts_"$1".txt
 
 for i in $(echo "${allPorts}")
 do
