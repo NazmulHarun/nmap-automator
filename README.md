@@ -1,4 +1,4 @@
-Certainly! Here's a README.md file template that provides instructions on how to use the script:
+
 
 ```markdown
 # Network Scanning Script
